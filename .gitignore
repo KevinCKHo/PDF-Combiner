@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.vscode/
+
+# Don't upload personal PDFs that end up in the project folder
+*.pdf
